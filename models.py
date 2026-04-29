@@ -7,4 +7,4 @@ print("master")
 name="Ashok"
 =======
 name="Sankar"
->>>>>>> b7315855f005e92bd48ea487d0224839d2dfff0a
+
