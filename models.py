@@ -3,8 +3,6 @@ print("Branch code updated")
 
 
 print("master")
-<<<<<<< HEAD
-name="Ashok"
-=======
-name="Sankar"
+
+name="Ashok&Sankar"
 
